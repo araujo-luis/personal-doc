@@ -27,3 +27,4 @@ Options:
 	  If you want to remove multiple container you can run this command: `docker rm container1 container2 container3`
 
 	  The container must be stopped in order to remove it, but you can force with the `-f ` option, like this: `docker rm -f container1`
+      
