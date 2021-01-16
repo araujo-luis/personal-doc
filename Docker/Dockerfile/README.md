@@ -1,6 +1,4 @@
-
-
-#Dockerfile
+# Dockerfile
 
 You can use `\` to separate commands in different lines and `&&` when listing differents commands one after other, specially when you want to avoid many Docker layers.
 

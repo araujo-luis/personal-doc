@@ -78,7 +78,7 @@ When you start a container you connect with a `bridge network`. All containers o
 
 - Docker login, write user and password.
 
-			docker login
+		docker login
 
 - Tag existeing docker images
 
